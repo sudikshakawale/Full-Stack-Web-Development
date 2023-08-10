@@ -28,7 +28,7 @@ command:
 # netstat -ano|findstr"LISTENING"
 
 # HTTP Request (Hyper Text Transfer Protocol)
-* The transfor protocol basically describes this as a language, a language that allows computer to talk to each pther across the Internet.
+* The transfer protocol basically describes this as a language, a language that allows computer to talk to each pther across the Internet.
 * When computers want to talk to each other across the Internet, they need the hyper text transfer protocol,a different language that allows them to understsnd each other.
 
 
