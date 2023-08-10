@@ -31,4 +31,16 @@ command:
 * The transfer protocol basically describes this as a language, a language that allows computer to talk to each pther across the Internet.
 * When computers want to talk to each other across the Internet, they need the hyper text transfer protocol,a different language that allows them to understsnd each other.
 
+# Request Vocab
+* Get- used to request data from a specified resource.
+* Post- used to send data to a server to create/update a resource.
+* Put-  is used to send data to a server to create/update a resource.
+* Patch-  method is used to apply partial modifications to a resource.
+* Delete- DELETE method deletes the specified resource.
+* OPTIONS- OPTIONS method describes the communication options for the target resource.
+* CONNECT- used to start a two-way communications (a tunnel) with the requested resource.
+* TRACE- used to perform a message loop-back test that tests the path for the target resource (useful for debugging purposes).
+
+# Middleware
+<img width="740" alt="image" src="https://github.com/sudikshakawale/Full-Stack-Web-Development/assets/139041369/0c43c641-6393-4780-8f16-ae4bafacf34e">
 
