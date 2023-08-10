@@ -42,5 +42,7 @@ command:
 * TRACE- used to perform a message loop-back test that tests the path for the target resource (useful for debugging purposes).
 
 # Middleware
+Middleware functions are functions that have access to the request object (req), the response object (res), and the next function in the application’s request-response cycle. The next function is a function in the Express router which, when invoked, executes the middleware succeeding the current middleware.
+
 <img width="740" alt="image" src="https://github.com/sudikshakawale/Full-Stack-Web-Development/assets/139041369/0c43c641-6393-4780-8f16-ae4bafacf34e">
 
