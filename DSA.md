@@ -5,7 +5,10 @@
 * examples: array, linked list, stack,
 
   # algorithm
-  *Sequence of steps on data using efficient data structure to solve a given problem.
-  
+  * Sequence of steps on data using efficient data structure to solve a given problem.
+  # Other Termonology
+  1. Dtabase: Collection of information in permanent storage for faster retrieval & updation.
+  2. Data Warehousing: Management of huge amount of data of better analysis.
+  3. Big data: Analysis of too large or complex data which cannot be dealt browsing application.
 
 
