@@ -9,6 +9,6 @@
   # Other Termonology
   1. Dtabase: Collection of information in permanent storage for faster retrieval & updation.
   2. Data Warehousing: Management of huge amount of data of better analysis.
-  3. Big data: Analysis of too large or complex data which cannot be dealt browsing application.
+  3. Big data: Analysis of too large or complex data which cannot be dealt with traditional data browsing application.
 
 
